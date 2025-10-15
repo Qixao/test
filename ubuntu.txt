@@ -1,0 +1,11 @@
+ubuntu
+cd 
+ls 
+mkdir 新建文件夹
+pwd 查看路径
+which 文件名 查看路径
+touch 新建
+. 当前文件夹
+.. 上一级文件夹
+tmux
+sudo 给管理员权限 apt update
